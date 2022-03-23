@@ -1,0 +1,17 @@
+{
+  "name": "com.phenomenalviborg.antilatencysdk",
+  "version": "1.0.0",
+  "displayName": "MUCO Antilatency SDK",
+  "unity": "2020.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Phenomenal",
+    "MUCO"
+  ],
+  "author": {
+    "name": "Storm Søndergaard"
+  },
+  "dependencies": {}
+}
